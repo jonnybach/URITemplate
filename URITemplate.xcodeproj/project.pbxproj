@@ -1240,7 +1240,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D320AAA5B900BD6E16 /* FrameworkTarget-mac.xcconfig */;
 			buildSettings = {
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -1248,7 +1248,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D320AAA5B900BD6E16 /* FrameworkTarget-mac.xcconfig */;
 			buildSettings = {
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -1404,7 +1404,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D420AAA5B900BD6E16 /* FrameworkTarget-tv.xcconfig */;
 			buildSettings = {
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -1412,7 +1412,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D420AAA5B900BD6E16 /* FrameworkTarget-tv.xcconfig */;
 			buildSettings = {
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -1420,7 +1420,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D520AAA5B900BD6E16 /* FrameworkTarget-watch.xcconfig */;
 			buildSettings = {
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -1428,7 +1428,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D520AAA5B900BD6E16 /* FrameworkTarget-watch.xcconfig */;
 			buildSettings = {
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
