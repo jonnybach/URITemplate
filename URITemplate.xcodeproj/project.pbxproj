@@ -1218,6 +1218,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D220AAA5B900BD6E16 /* FrameworkTarget-ios.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -1225,6 +1226,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D220AAA5B900BD6E16 /* FrameworkTarget-ios.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
