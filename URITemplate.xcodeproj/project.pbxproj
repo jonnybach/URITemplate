@@ -819,10 +819,11 @@
 				TargetAttributes = {
 					9549657A20A41AAD00BD6E16 = {
 						CreatedOnToolsVersion = 9.3;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1020;
 					};
 					9549658C20A4230500BD6E16 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1020;
 					};
 					958812352093549E0080D3D4 = {
 						CreatedOnToolsVersion = 9.3;
@@ -845,12 +846,15 @@
 					};
 					958812D3209745FE0080D3D4 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1020;
 					};
 					958812EB2097F3090080D3D4 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1020;
 					};
 					958813002097F8B70080D3D4 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1020;
 					};
 					95C591851F6F7C1200C4405A = {
 						CreatedOnToolsVersion = 9.0;
@@ -858,9 +862,11 @@
 					};
 					95D06B7320AAB08E005D6947 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1020;
 					};
 					95D06B8020AAB126005D6947 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1020;
 					};
 				};
 			};
@@ -1234,6 +1240,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D320AAA5B900BD6E16 /* FrameworkTarget-mac.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1241,6 +1248,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D320AAA5B900BD6E16 /* FrameworkTarget-mac.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1320,6 +1328,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 958812E72097D88D0080D3D4 /* TestTarget-mac.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1327,6 +1336,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 958812E72097D88D0080D3D4 /* TestTarget-mac.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1334,6 +1344,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 958812FC2097F5470080D3D4 /* TestTarget-ios.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1341,6 +1352,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 958812FC2097F5470080D3D4 /* TestTarget-ios.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1348,6 +1360,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 958813112097FB130080D3D4 /* TestTarget-tv.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1355,6 +1368,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 958813112097FB130080D3D4 /* TestTarget-tv.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1390,6 +1404,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D420AAA5B900BD6E16 /* FrameworkTarget-tv.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1397,6 +1412,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D420AAA5B900BD6E16 /* FrameworkTarget-tv.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1404,6 +1420,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D520AAA5B900BD6E16 /* FrameworkTarget-watch.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1411,6 +1428,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 954965D520AAA5B900BD6E16 /* FrameworkTarget-watch.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
