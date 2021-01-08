@@ -3,12 +3,12 @@
 All notable changes to this project will be documented in this file.
 
 <a name="3.0.0"></a>
-# [2.1.0](https://github.com/SwiftScream/URITemplate/compare/2.1.0...3.0.0) (2019-05-23)
+# [3.0.0](https://github.com/SwiftScream/URITemplate/compare/2.1.0...3.0.0) (2019-05-23)
 
 - Update Swift version to 5
 - Add Xcode project schemes dedicated to testing and profiling.  This removes the need to include special linker flags for the Carthage workaround for simulator builds.
+- Update Travis CI config to use Xcode 12 for testing
 - Update README
-
 
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/SwiftScream/URITemplate/compare/2.0.1...2.1.0) (2019-05-23)
